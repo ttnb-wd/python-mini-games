@@ -24,4 +24,4 @@ elif user_guess == 1 and system_choice == 2:
 elif user_guess == 2 and system_choice == 1:
     print("you wins the game")
 else:
-    print("Draw")  
+    print("its a draw")  
